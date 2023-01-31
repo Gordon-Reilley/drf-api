@@ -22,4 +22,4 @@
 ### Tests
 
 * Run tests with the command: `python manage.py test`.
-* All 6 tests passing!
+* All 6 tests passing
